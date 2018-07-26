@@ -49,6 +49,7 @@ void imprimirR(Nodo ***p);
 int main()
 {
 
+printf("Nuevo cambio");printf("Nuevo cambio");printf("Nuevo cambio");printf("Nuevo cambio");
     Nodo* primero =  NULL;
     int n =10;
 
